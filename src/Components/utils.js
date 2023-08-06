@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 // ** React Imports
 import { useContext } from "react";
-import { AbilityContext } from "../utility/context/Can";
+import { AbilityContext } from "../utility/context/Can.js";
 
 /**
  * Return which component to render based on it's data/context

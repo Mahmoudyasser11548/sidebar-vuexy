@@ -2,7 +2,7 @@
 import { useEffect } from "react";
 
 // ** Store Imports
-import { handleSkin } from "../../redux/layout";
+import { handleSkin } from "../../redux/layout.js";
 import { useDispatch, useSelector } from "react-redux";
 
 export const useSkin = () => {
